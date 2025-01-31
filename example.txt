@@ -1,1 +1,3 @@
 file placed in gitignore but should be tracked
+
+changes shouldnt be tracked
